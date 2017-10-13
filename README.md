@@ -1,4 +1,4 @@
-# Webpack 2 + Bootstrap 4 beta example
+# Webpack 3 + Bootstrap 4 beta example
 
 Title says it all (:
 
