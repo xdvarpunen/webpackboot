@@ -7,6 +7,5 @@ Title says it all (:
 ```powershell
 npm install # Install nodejs dependencies
 webpack -p
-ii .\public\index.html # Opens file in browser 
+# Open `\public\index.html`-file in browser and watch the result.
 ```
-You can also just double click index.html-file and see how it renders in browser.
